@@ -29,3 +29,31 @@ e) El programa debe implementar control de excepciones en cada ingreso de inform
 El mensaje debe ser claro al usuario, indicando que debe corregir en cada intento de ingresar los datos
 
 Define un módulo con todas las funciones que va a utilizar y consuma desde otro py.
+
+Python Project 1 Exercise
+
+An SME has the following payment structure for its 10 employees:
+
+a base salary
+
+A bonus of 1% of the base salary, for each month worked
+
+A family allowance of 5% of the base salary, for each child
+
+The sum of the three previous values, make up the "tax base". All employees must contribute 7% of the health tax base.
+
+Employees are in one of two sso companies: the first charges (between taxes and other expenses) 12% of the tax base, while the second charges 11.4%
+
+Build a Python program that:
+
+a) Ask for the data entry of the 10 employees and store them. You must ask for: name, surname, base salary, date of entry and number of children.
+
+b) The program must calculate the tax base, as indicated above and then discount accordingly.
+
+c) The program must calculate what must be paid for health and the amount of each of the SSO companies.
+
+d) The program must calculate the average payments to employees
+
+e) The program must implement exception control in each entry of information. The message must be clear to the user, indicating that they must correct each attempt to enter the data.
+
+Define a module with all the functions you are going to use and consume from another py
